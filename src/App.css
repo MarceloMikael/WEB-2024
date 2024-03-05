@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+  color: darkblue;
+}
+
+h4 {
+  color: crimson;
+  font-style: italic;
+}
